@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06 16:11:05",
+ "generated_at": "2026-07-06 16:11:58",
  "retrain": {
   "run": "walkforward_20260401_20260706_155111",
   "cutoff": "2026-04-01",
@@ -7,11 +7,11 @@
   "current_stage": "train predictor",
   "epoch": 1,
   "epochs_total": 20,
-  "step": 10200,
+  "step": 10600,
   "steps_total": 16746,
-  "loss": 2.3383,
-  "last_update": "2026-07-06 16:11:02",
-  "train_eta_hours": 9.9,
+  "loss": 2.5972,
+  "last_update": "2026-07-06 16:11:47",
+  "train_eta_hours": 10.4,
   "val_losses": [],
   "evals_done": [],
   "complete": false
